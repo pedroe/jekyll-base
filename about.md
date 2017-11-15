@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Esto es una prueba de actualización [jekyllrb.com](http://jekyllrb.com/)
+Segunda prueba de actualización [jekyllrb.com](http://jekyllrb.com/)
 
 Nuevo tema: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
 
